@@ -14,7 +14,7 @@ import java.util.*;
 @WebServlet("/evening")
 public class EveningServlet extends HttpServlet {
 
-    private static final String CUSTOM_SESSION_ID = "custom_id";
+    private static final String CUSTOM_SESSION_ID = "custom_idasdasd";
 
     private Map<String, String> sessionParams = new HashMap<>();
 
